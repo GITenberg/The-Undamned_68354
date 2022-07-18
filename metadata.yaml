@@ -5,6 +5,9 @@ contributor:
     agent_name: Swenson
     gutenberg_agent_id: '54643'
     url: http://www.gutenberg.org/2009/agents/54643
+covers:
+- cover_type: archival
+  image_path: 68354-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68354#The-Undamned
 gutenberg_issued: '2022-06-20'
 identifiers:
   gutenberg: '68354'
